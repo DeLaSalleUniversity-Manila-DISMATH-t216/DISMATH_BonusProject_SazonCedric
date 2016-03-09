@@ -1,8 +1,11 @@
 # DISMATH_BonusProject_SazonCedric
+
 ## Designer Screen
-![](apppic4.png)
+![Screenshot](apppic4.jpg)
+
 # Blocks 
 ## Linear Search
-![](apppic5.png)
+![Screenshot](apppic5.jpg)
+
 ### Binary Search
-![](apppic6.png)
+![Screenshot](apppic6.jpg)
